@@ -3,6 +3,8 @@
 <!--
 **Donatello-Carboni/Donatello-Carboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+!Alt My introduction
+<img src="https://example.com/image.webp" alt="Alt Text" loop>
 ```java
 public class ComputerScientist {
   private String name;
