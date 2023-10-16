@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">
-  <img src="./github_profile.webp" alt="Alt Text" loop>
+  <img src="./github.gif" alt="Alt Text" loop>
 </h1>
 
 ```java
