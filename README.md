@@ -1,6 +1,6 @@
 ### Hi, here is a little bit about me :)
 
-<img src="" alt="Alt Text" loop>
+<img src="https://google.com" alt="Alt Text" loop>
 ```java
 public class ComputerScientist {
   private String name;
