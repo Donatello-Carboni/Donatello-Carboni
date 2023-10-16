@@ -20,13 +20,14 @@ public class ComputerScientist {
   public ComputerScientist() {
     this.name = "Donatello Grahame Carboni";
     this.university = "University of Pretoria";
-    this.interests = new String[] {"My girlfriend", "Artificial Intelligence",
+    this.interests = new String[] {"My girlfriend", "Artificial Intelligence", "Linux",
                                    "Cryptocurrency", "Formula 1"};
   }
 
   public void sayHi() {
     System.out.println("Hi, I am " + name + " and I am a student at the " +
                        university + "!");
+    System.out.println("I use Arch BTW");
   }
 
   public void sayInterests() {
