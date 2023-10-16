@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./github.gif" alt="Alt Text">
+  <img src="./github.gif" alt="Alt Text" height="6rem">
 </p>
 
 ```java
