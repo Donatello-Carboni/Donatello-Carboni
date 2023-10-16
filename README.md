@@ -1,6 +1,10 @@
 ### Hi, here is a little bit about me :)
 
-<img src="https://google.com" alt="Alt Text" loop>
+<!--
+**Donatello-Carboni/Donatello-Carboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+!My introduction
+<img src="https://example.com/image.webp" alt="Alt Text" loop>
 ```java
 public class ComputerScientist {
   private String name;
