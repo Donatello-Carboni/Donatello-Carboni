@@ -4,9 +4,13 @@
 **Donatello-Carboni/Donatello-Carboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
+<video autoplay loop>
+  <source src="./github_banner.mp4" type="video/mp4">
 <p align="center">
-  <img src="./github.gif" alt="Alt Text" style="width: 200%; height: auto;">
-</p>
+  <img src="./github.gif" alt="Alt Text" style="width: 200%; height: auto;">  
+</p> 
+</video>
 
 ```java
 public class ComputerScientist {
