@@ -1,10 +1,13 @@
-### Hi, here is a little bit about me :)
+### Hi there! 👋
+
 <!--
 **Donatello-Carboni/Donatello-Carboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 <h1 align="center">
-<img src="./github_profile.webp" alt="Alt Text" loop>
+  <img src="./github_profile.webp" alt="Alt Text" loop>
 </h1>
+
 ```java
 public class ComputerScientist {
   private String name;
