@@ -5,10 +5,10 @@
 -->
 
 <p align="center">
-<video autoplay loop>
+<!-- <video autoplay loop>
   <source src="./github_banner.mp4" type="video/mp4">
-  <!--<img src="./github.gif" alt="Alt Text" style="width: 200%; height: auto;">  -->
-</video>
+</video> -->
+  <img src="./github.gif" alt="Alt Text" style="width: 200%; height: auto;"> 
 </p>
 
 ```java
