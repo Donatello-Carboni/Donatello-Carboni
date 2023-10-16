@@ -2,7 +2,7 @@
 <!--
 **Donatello-Carboni/Donatello-Carboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-!Alt[My introduction](./github_profile.webp)
+!Alt[My introduction]
 <img src="./github_profile.webp" alt="Alt Text" loop>
 ```java
 public class ComputerScientist {
