@@ -5,12 +5,12 @@
 -->
 
 
+<p align="center">
 <video autoplay loop>
   <source src="./github_banner.mp4" type="video/mp4">
-<p align="center">
-  <img src="./github.gif" alt="Alt Text" style="width: 200%; height: auto;">  
-</p> 
+  <!--<img src="./github.gif" alt="Alt Text" style="width: 200%; height: auto;">  -->
 </video>
+</p> 
 
 ```java
 public class ComputerScientist {
