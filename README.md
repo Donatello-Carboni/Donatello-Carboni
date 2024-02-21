@@ -25,7 +25,7 @@ public class ComputerScientist {
   }
 
   public void sayHi() {
-    System.out.println("Hi, I am " + name + " and I am a student at the " +
+    System.out.println("Hi, I am " + name + " and I am a third year student at the " +
                        university + "!");
     System.out.println("I use Arch BTW");
   }
